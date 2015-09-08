@@ -1,0 +1,15 @@
+*.a
+*.bak
+*.class
+*.db
+*.dSYM
+*.la
+*.lo
+*.log
+*.o
+*.os
+*.sw*
+*.test
+*.zip
+*~
+/node_modules
